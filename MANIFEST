@@ -1,0 +1,10 @@
+lib/Algorithm/ApplyDiffs.pm
+lib/Algorithm/ApplyDiffs.pod
+t/10plainsingle.t
+t/20plainmerge.t
+t/25mergemany.t
+t/50confict.t
+t/60regress1.t
+MANIFEST
+MANIFEST.SKIP
+Makefile.PL
